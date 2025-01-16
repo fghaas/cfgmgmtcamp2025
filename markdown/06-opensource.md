@@ -1,14 +1,14 @@
 # Open source <!-- .element class="hidden" -->
 
-Was Unternehmen von der Open Source Software-Community lernen können
+What organinsations can learn from the open source software community
 
 <!-- Note -->
-Wie man sich als Unternehmen aufstellen kann, **ohne** Leute zu vergraulen, das kann man von der Open Source Software Community (und von Unternehmen, die sich an ihr orientieren) lernen.
+How a company can position itself **without** scaring people away is something you can learn from the open source software community (and from companies that orientate themselves on it).
 
-Und das nicht erst seit gestern: wie man verteilt, asynchron und effizient arbeitet, das wissen wir seit mindestens 20 Jahren.
+And not just since yesterday: we have known how to work in a distributed, asynchronous and efficient way for at least 20 years.
 
 
-## Mårten Mickos, Stanford-Vortrag <!-- .element class="hidden" -->
+## Mårten Mickos, Stanford talk <!-- .element class="hidden" -->
 
 ![https://youtu.be/2xmEgtRhw7o](images/mickos.svg)
 
@@ -17,68 +17,68 @@ Und das nicht erst seit gestern: wie man verteilt, asynchron und effizient arbei
 Mårten Mickos, 2011
 
 <!-- Note -->
-Das hier ist ein Vortrag vom November 2011, in dem Mårten Mickos (früherer Chef von MySQL AB) die Organisation seines Unternehmens beschreibt, von etwa 2000 bis zum Verkauf an Sun 2008.
+This is a presentation from November 2011 in which Mårten Mickos (former head of MySQL AB) describes the organisation of his company from around 2000 until its sale to Sun in 2008.
 
-Da ist alles drin, was wir heute als zeitgemäßes verteiltes Arbeiten verstehen: 
+It contains everything we understand today as contemporary distributed working: 
 
-* über 70% der Belegschaft arbeitet von zu Hause (und viele Teams zu 100%)
-* 1x im Jahr gibt es ein allgemeines Mitarbeiter:innentreffen
-* Kommunikation ist grundsätzlich asynchron und verschriftlicht
-* Überwachung durch Führungskräfte ist abgestellt, weil sinnfrei
+* Over 70% of the workforce works from home (and many teams 100%)
+* There is an all-hands meeting once a year
+* Communication is always asynchronous and written down
+* Supervision by managers is cancelled because it makes no sense
 
-Und auch sonst merkt man hier Grundsätze, die ganz eindeutig von der Open Source Software-Community verinnerlicht werden.
-
-
-## Arbeit ist verteilt <!-- .element class="hidden" -->
-
-Arbeit ist grundsätzlich verteilt.
-
-<!-- Note -->
-Grundsätzlich erfolgt die Erledigung von Aufgaben unabhängig vom Aufenthaltsort einzelner Personen.
-Alle Arbeitswerkzeuge sind darauf ausgerichtet.
+And you can also see other principles here that are clearly internalised by the open source software community.
 
 
-## Arbeit ist asynchron <!-- .element class="hidden" -->
+## Work is distributed <!-- .element class="hidden" -->
 
-Arbeit ist grundsätzlich asynchron.
+Work is distributed by default.
 
 <!-- Note -->
-Grundsätzlich erfolgt die Erledigung von Aufgaben auch ohne Erfordernis zeitsynchroner Koordination.
-
-Ideen wie Pair Programming oder gemeinsame Hackathons können daher nie zur Norm werden, sondern sind immer Ausnahmefälle: grundsätzlich arbeitet jede Person nach ihrem eigenen Zeitplan.
-
-
-## Kommunikation ist schriftlich <!-- .element class="hidden" -->
-
-Kommunikation ist grundsätzlich schriftlich und in einen definierten Kontext eingebettet.
-
-<!-- Note -->
-Kommunikationskanäle sind nicht nur grundsätzlich schriftlicher Art, sondern es werden auch kontextgebundene Kanäle kontextlosen vorgezogen.
-
-Deswegen passiert soviel Kommunikation in Code-Reviews, in Bugtrackers, und in Threads auf Mailinglisten oder Diskussionsforen.
-
-Kommunikation in interaktiven Chat-Kanälen ist dagegen dafür gedacht, die Lücken zwischen diesen kontextorientierten Medien zu füllen, und ist selten projekttragend.
+By default, tasks are completed regardless of the location of individual persons.
+All work tools are designed with this in mind.
 
 
-## Synchronisationspunkte sind geplant <!-- .element class="hidden" -->
+## Work is asynchronous <!-- .element class="hidden" -->
 
-Synchronisationspunkte sind geplant, begrenzt, dokumentiert, vor- und nachbereitet.
+Work is asynchronous by default.
 
 <!-- Note -->
-Zwingende Synchronisationspunkte kann es geben, zB wöchentliche Meetings in einem Chat-Kanal, quartalsweise Sprint-Meetings, oder auch jährliche Entwicklerkonferenzen.
+In principle, tasks are completed without the need for synchronised coordination.
 
-Aber: die sind immer vorab geplant, zeitlich begrenzt, für die Nachwelt dokumentiert, und sie haben immer eine vordefinierte Vor- und Nachbereitung.
-
-Ad-hoc-Synchronisationspunkte nach dem Motto "alle in mein Büro, jetzt" gibt es in Open Source-Projekten praktisch nicht.
+Ideas such as pair programming or joint hackathons can therefore never become the norm, but are always exceptional cases: each person always works according to their own schedule.
 
 
-## Das klappt in Unternehmen auch.  <!-- .element class="hidden" -->
+## Communication means writing <!-- .element class="hidden" -->
 
-... und ja, in einem Unternehmen kann man das auch so machen.
+Communication is always in writing and embedded in a defined context.
 
 <!-- Note -->
-Und wenn man das tut, dann bekommt man auch richtig gute Leute.
+Not only are communication channels generally written, but contextual channels are also preferred over non-contextual ones.
 
-Wenn nicht: tja, S.S.K.M.
+That's why so much communication happens in code reviews, in bug trackers, and in threads on mailing lists or discussion forums.
 
-So, und jetzt noch zwei Bemerkungen zum Abschluss:
+Communication in interactive chat channels, on the other hand, is intended to fill the gaps between these context-orientated media and is rarely project-based.
+
+
+## Synchronisation is deliberate <!-- .element class="hidden" -->
+
+Synchronisation points are pre-planned, limited, documented, and always include a brief and debrief.
+
+<!-- Note -->
+There may be mandatory synchronisation points, e.g. weekly meetings in a chat channel, quarterly sprint meetings or even annual developer conferences.
+
+However, these are always planned in advance, limited in time, documented for posterity and always have predefined preparation and follow-up.
+
+Ad hoc synchronisation points along the lines of ‘everyone in my office, now’ are practically non-existent in open source projects.
+
+
+## This works in companies too  <!-- .element class="hidden" -->
+
+... and yes, you can do the same in a company.
+
+<!-- Note -->
+And if you do that, then you get really good people.
+
+If you choose not to: well, that's Your Own Damn Fault.
+
+So, and now two final remarks:

@@ -1,90 +1,90 @@
 # 🚩🚩🚩
 
 <!-- Note -->
-Wenn ihr euch schon immer mal gefragt habt, was Menschen davon abhalten könnte, bei euch zu arbeiten, dann kommt jetzt was interessantes, nämlich so typische Warnzeichen, die sich für den Bewerber oft im Bewerbungsprozess zeigen.
+If you've ever wondered what could stop people from working for you, here's something interesting, namely typical warning signs that often show up for applicants during the application process.
 
-Und wenn ihr euch das noch nie gefragt habt, dann wird's Zeit.
-
-
-## KI-Persönlichkeits-Schlangenöl
-
-<!-- Note -->
-Wenn euer Bewerbungsprozess irgendwie auf angeblicher künstliche-Intelligenz-Verwendung basiert, um geeignete von ungeeigneten Bewerber:innen zu trennen, dann habt ihr bei Menschen mit *natürlicher* Intelligenz schon verloren.
-
-Das ist Schlangenöl, Voodoo, Homöopathie, Bachblüten für Personaler.
-Hört auf mit dem Unfug.
-
-Und, nur zur Illustration: jede KI-Lösung ist nur so gut wie ihre Trainingsdaten.
-Gerade im Personalbereich ist es hier extrem wichtig, auf die Vermeidung algorithmischer Verzerrung ([algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias)) zu achten.
-
-Mir wollte mal jemand einen KI-Persönlichkeitstest als verpflichtenden Teil des Einstellungsprozesses verkaufen.
-Ich habe gefragt, was sie bei ihrer Lösung zur Vermeidung algorithmischer Verzerrung tun.
-
-Dafür gibt's wenige gute und viele schlechte Antworten.
-Aber die allerschlechteste vorstellbare Antwort war die, die ich bekommen hab: "what's algorithmic bias?"
+And if you've never asked yourself this before, then it's about time.
 
 
-## Zahlen statt Menschen
+## AI Personality Snake Oil
 
 <!-- Note -->
-Es gibt einen meiner Ansicht nach sehr unguten Trend in vielen Organisationen, nämlich dass Menschen nicht selten seitlich von der Finanz- in die Personalschiene wechseln.
+If your application process is somehow based on the alleged use of artificial intelligence to separate suitable from unsuitable applicants, then you've already lost out on people with *natural* intelligence.
 
-Das führt dann dazu, dass die Zahlenmenschen auf einmal über andere Menschen nachdenken müssen — und die werden dann recht rasch auch bloß zu Zahlen.
+It's snake oil, voodoo, homeopathy, Bach flowers for recruiters.
+Stop with the nonsense.
 
-Merkt man vor allem daran, dass man an alles irgendwelche Scores und Kennzahlen dran hängt.
+And, just to illustrate: any AI solution is only as good as its training data.
+In the HR sector in particular, it is extremely important to avoid [algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias).
 
-Merkt man übrigens auch schon am neudeutschen Begriff "Human Resources". 
-(Wer Personal "Ressourcen" nennt, muss sich gefallen lassen, selbst "Gemeinkosten" genannt zu werden.)
+Someone once tried to sell me an AI personality test as a mandatory part of the recruitment process.
+I asked what they were doing to avoid algorithmic bias in their solution.
 
-Wenn ein intelligenter Mensch das im Bewerbungsprozess mitbekommt, dann gibt's nur 2 Möglichkeiten:
+There are few good answers and many bad ones.
+But the worst answer imaginable was the one I got: "what's algorithmic bias?"
 
-* Entweder er rennt weg, und erzählt allen seinen Bekannten was bei euch in der Firma läuft.
-* Oder er entscheidet sich das Spiel mitzuspielen, weil er weiß, wie gut es zu manipulieren ist.
-* In beiden Fällen ist die Konsequenz dass ihr mehr und mehr Menschen im Betrieb habt, die das System zum eigenen Vorteil manipulieren.
 
-Wenn ihr solche Menschen wirklich haben wollt: S.S.K.M.
+## Numbers, not People
 
-Finanzmenschen scheinen eins zu vergessen: was Menschen in der IT machen, ist lediglich immer kaputtes Zeug zum eigenen Vorteil zu verwenden.
+<!-- Note -->
+In my opinion, there is a very unfortunate trend in many organisations, namely that people often switch laterally from the financial to the personnel track.
 
-(Wir haben Sand beigebracht, zu denken.)
+This then leads to numbers people suddenly having to think about other people - and they quickly become just numbers.
 
-Und das gilt immer auch für kaputte Kennzahlensysteme.
+This is particularly noticeable in the fact that scores and key figures are attached to everything.
 
-Beschäftigt euch bitte mit so Dingen wie [Goodhartsches Gesetz, Campbellsches Gesetz, McNamara-Fehlschluss](https://xahteiwi.eu/blog/2021/11/14/meaningless-metrics-treacherous-targets/).
+You can also tell by the new German term ‘human resources’. 
+(If you call personnel ‘resources’, you have to put up with being called ‘overheads’ yourself).
+
+If an intelligent person realises this during the application process, there are only 2 options:
+
+* Either they run away and tell all their acquaintances what's going on in your company.
+* Or they decide to game the system, because they know how easy it is to manipulate.
+* In both cases, the consequence is that you have more and more people in the company who manipulate the system to their own advantage.
+
+If you actually **want** those people, fine --- but then it'll be Your Own Damn Fault.
+
+Finance people seem to forget one thing: what people do in IT is just always use broken stuff to their own advantage.
+
+(We have taught sand to think.)
+
+And that always applies to broken KPI systems too.
+
+Please acquaint yourself with things like [Goodhart's law, Campbell's law, the McNamara fallacy](https://xahteiwi.eu/blog/2021/11/14/meaningless-metrics-treacherous-targets/).
 
 
 ## Daily standups
 
 <!-- Note -->
-Ihr solltet wissen, dass Menschen die Heimarbeit, asynchrone Koordination und Verschriftlichung gewöhnt sind, die Kenntnis dieser Fähigkeiten auch von Führungskräften erwarten.
+You should know that people who are used to working from home, asynchronous coordination and writing are also expecting managers to know these skills.
 
-Wenn ein Unternehmen so was wie ein Daily Standup pflegt, wo jede/r nur sagt woran er oder sie gerade ist und wo es gerade hakt, dann gibt es für solche Menschen nur zwei mögliche Gründe dafür: 
+If a company cultivates something like a daily stand-up, where everyone just says what they're working on and where there's a problem, then there are only two possible reasons for such people: 
 
-* funktionaler Analphabetismus bei Kolleg:innen, insbesondere die Unfähigkeit zu Schreiben, und/oder
-* funktionaler Analphabetismus bei Führungskräften, insbesondere die Unfähigkeit zu Lesen.
+* functional illiteracy among colleagues, especially the inability to write, and/or
+* functional illiteracy among managers, especially the inability to read.
 
-Wenn es das bei euch gibt, dann werdet ihr eben Leute anziehen, die das wollen, und das sind dann eben nicht die, die in zeitgemäßer, asynchroner Kommunikation gut sind: S.S.K.M.
+If you have that, then you will attract people who want that, and they won't be the ones who are good at contemporary, asynchronous communication: and that'll be Your Own Damn Fault.
 
 
-## Fernbüro
+## Remote Office
 
 <!-- Note -->
-Noch ein Phänomen, das gute Leute weit von euch weg treiben wird, ist das was ich "Fernbüro" nenne.
+Another phenomenon that will drive good people far away from you is what I call the ‘remote office’.
 
-Das ist ein Arbeitsumfeld, in dem alle 100% remote sind, aber niemand sich Gedanken gemacht hat, dass das eben auch 100% verteilt und asynchron bedeutet.
-Und wo man statt dessen versucht, eine Büro-Firma zu fahren, aber eben ohne Büro, dafür mit allen Blödheiten, die in Büros leider irgendwie akzeptiert werden.
+This is a working environment in which everyone is 100% remote, but nobody has thought about the fact that this also means 100% distributed and asynchronous.
+And where instead you try to run an office-based company, but without an office, but with all the stupidities that are unfortunately somehow accepted in offices.
 
-Kenn- und Warnzeichen für ein Fernbüro sind:
+The signs and warning signs of a remote office are
 
-* alle sind permanent in unvorbereiten Video-Meetings, deren Motivation ausschließlich aus "hast du mal einen Moment" besteht
-* Führungskräfte brauchen Infos immer *sofort,* und pingen Kolleg:innen wild im Chat an
-* wenn sich irgendwas wichtiges tut, ruft irgendein Cheffe *alle* in ein hastiges Videomeeting, statt sich hinzusetzen und eine Email zu schreiben
-* es wird toleriert, wenn Menschen in Meetings komplett unvorbereitet kommen, insbesondere die, die weiter oben in der Nahrungskette stehen
-* in Issue-Trackern (wie Jira, Taiga, Trello und dergleichen) werden Kommentare wie "ich hab jetzt nicht den ganzen Thread gelesen aber hier ist meine Meinung" toleriert
-* Führungskräfte haben dystopische Überwachungsfantasien
+* everyone is constantly in unprepared video meetings whose motivation consists solely of ‘do you have a moment’
+* managers always need information *immediately,* and ping colleagues wildly in the chat
+* When something important happens, some boss calls *everyone* into a hasty video meeting instead of sitting down and writing an email
+* it is tolerated when people come to meetings completely unprepared, especially those who are higher up the food chain
+* issue trackers (such as Jira, Taiga, Trello and the like) tolerate comments such as ‘I haven't read the whole thread but here's my opinion’
+* Managers have dystopian surveillance fantasies
 
-Fernbüros sind leider während Covid-Lockdowns so was wie ein Normalfall geworden.
+Remote offices have unfortunately become something of a norm during Covid lockdowns.
 
-Das entschuldigt aber nicht, dass es sie jetzt noch immer gibt.
+But that doesn't excuse the fact that they still exist now.
 
-Und wenn ihr wirklich ein Fernbüro betreiben und damit gute Leute abschrecken wollt: S.S.K.M.
+If you really **want** to run a remote office and scare away good people: that's Your Own Damn Fault.

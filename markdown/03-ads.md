@@ -1,139 +1,141 @@
-# Stellen-Anzeigen
+# Job ads
 
 <!-- Note -->
-Praktischerweise kann man das, was man dann aufschreibt, gleich auch in die Form einer Stellenanzeige gießen.
+Conveniently, what you then write down can serve as a basis for a job advertisement.
 
 
-# Stellenanzeigen, Inhalt <!-- .element class="hidden" -->
+# Job ads, content <!-- .element class="hidden" -->
 
-Was muss in eine gute Stellenanzeige?
+What belongs in a good job advert?
 
 <!-- Note -->
-Ich bin jetzt mal selbstbewusst an der Grenze zur Überheblichkeit: ich schreibe gute Stellenanzeigen.
+I'll be confident bordering on arrogance for a moment: I write good job adverts.
 
-Das weiß ich nicht nur aus Gesprächen mit Bewerber:innen, die mir das in Interviews mitteilen.
-Sondern ich höre regelmäßig Dinge wie "ich bin gerade da glücklich, wo ich bin, aber wär ich auf der Suche, würde ich mich sofort bewerben, und außerdem ist das die beste Stellenbeschreibung, die ich je gelesen hab."
-Meine Stellenbeschreibungen machen die Runde, wenn ich sie rausschicke, weil Menschen sie gern lesen und gern weitergeben.
+I know this not only from conversations with applicants who tell me this in interviews.
+I also regularly hear things like ‘I'm happy where I am right now, but if I were looking for a job, I'd apply straight away, and what's more, this is the best job description I've ever read.’
+My job descriptions make the rounds when I send them out because people like to read them and like to pass them on.
 
-Und meine Stellenbeschreibungen sind lang.
-Und egal was euch jetzt jemand mal erzählt hat, die werden von Bewerber:innen typischerweise sehr aufmerksam gelesen.
+And my job descriptions are long.
+And contrary to popular lore, applicants do typically read them very carefully.
 
-Und: eine vernünftige Stellenanzeige zu schreiben, erspart euch im Bewerbungsprozess **viel** Arbeit.
-Also steckt da Arbeit rein, sie zahlt sich aus.
+And: writing a good job advert saves you a lot of work in the interview process.
+So put in the work, it will pay off.
 
-Vieles davon müsst ihr auch nur einmal von null weg machen, und könnt es dann bei jeder weiteren Stellenausschreibung wieder verwenden.
+You only have to do a lot of it once from scratch and can then use it again for every other job advert.
 
 
 <!-- .slide: data-timing="300" -->
-## Stellenanzeigen, Checkliste <!-- .element class="hidden" -->
+## Job ad checklist <!-- .element class="hidden" -->
 
-<span class="fragment fade-in-then-semi-out">Worum geht's hier?</span>
-<span class="fragment fade-in-then-semi-out">Woran werde ich arbeiten?</span>
-<span class="fragment fade-in-then-semi-out">Was sollte ich wissen?</span>
-<span class="fragment fade-in-then-semi-out">Was kann ich lernen?</span>
-<span class="fragment fade-in-then-semi-out">In welche Communities bringe ich mich ein?</span>
-<span class="fragment fade-in-then-semi-out">Wer ist mein/e direkte/r Vorgesetzte/r?</span>
-<span class="fragment fade-in-then-semi-out">Wie arbeitet sich's bei euch?</span>
-<span class="fragment fade-in-then-semi-out">Wie sieht mein Team aus?</span>
-<span class="fragment fade-in-then-semi-out">Wie sieht meine Arbeitswoche aus?</span>
-<span class="fragment fade-in-then-semi-out">Von wo kann ich arbeiten?</span>
-<span class="fragment fade-in-then-semi-out">Kann ich zu Hause arbeiten?</span>
-<span class="fragment fade-in-then-semi-out">In welcher Zeitzone arbeite ich?</span>
-<span class="fragment fade-in-then-semi-out">Gehört Reisen dazu?</span>
-<span class="fragment fade-in-then-semi-out">Welche Vertragsbedingungen gelten?</span>
-<span class="fragment fade-in-then-semi-out">Wann würde ich anfangen?</span>
-<span class="fragment fade-in-then-semi-out">Was würde ich verdienen?</span>
-<span class="fragment fade-in-then-semi-out">Wie bewerbe ich mich?</span>
-<span class="fragment fade-in-then-semi-out">Wie geht's danach weiter?</span>
-
-<!-- Note -->
-* Worum geht's hier? — 1-Satz-Beschreibung der Tätigkeit
-* Woran werde ich arbeiten? — Weitere Details zu den Systemen/Prozessen/Verantwortlichkeiten, die mit der Stelle verbunden sind.
-* Was sollte ich wissen — Wissensvoraussetzungen: was man *unbedingt* an Wissen/Erfahrung mitbringen sollte.
-* Was kann ich lernen? — Möglichkeiten für den Erwerb neuen Wissens oder neuer Fähigkeiten.
-* In welche Communities bringe ich mich ein? — Menschen und Gemeinschaften *außerhalb* der Organisation, in die die Person sich einbringen könnte.
-* Wer ist mein/e direkte/r Vorgesetzte/r? — Informationen über dich. (Ja, du schreibst das selber.)
-* Wie arbeitet sich's bei euch? — Informationen über Organisationskultur und -Prozesse. Ist es ein Bürounternehmen? Hybrid? Remote? Gibt es spezielle Sicherheitsvorkehrungen? Welche Arbeitssprache(n) hat das Unternehmen?
-* Wie sieht mein Team aus? — Teamzusammensetzung und -Kultur. Wie groß ist das Team? Ist es geschlechterparitätisch? Wo leben die Teammitglieder? Wie kommunizieren sie?
-* Wie sieht meine Arbeitswoche aus? — Informationen über die tägliche/wöchentliche Arbeitsorganisation. Wieviele Meetings gibt's pro Woche? Gibt es daily standups (schauder)?
-* Von wo kann ich arbeiten? — Gibt es Dinge hinsichtlich des Wohn- oder Aufenthaltorts zu beachten (z.B. nur innerhalb der EU, nicht in den USA, etc.)
-* Kann ich von zu Hause arbeiten — Informationen über Heimarbeit. Wenn 100% remote möglich ist, sollte da auch dazu gehören, wie oft im Jahr sich das Unternehmen verpflichtend an einem Ort trifft.
-* In welcher Zeitzone arbeite ich? — Die meisten Teams haben einen an eine bestimmte Zeitzone angepassten Arbeitstag, und Mitarbeiter:innen passen sich dem an. Aber vielleicht gibt es auch Schichtbetrieb, und dann können Menschen auch durchaus antizyklisch arbeiten (zB: "Nachteule" in Europa arbeitet in der US-Tagschicht).
-* Gehört Reisen zum Job? — betrifft Reisen zu Kunden, aber auch zu anderen Unternehmensstandorten (zB: quartalsweise Entwickler-Sprints)
-* Welche Vertragsbedingungen gelten? — Wenn es Standardverträge gibt, kann man die hier beschreiben. Überstundenregelungen, Urlaub, Krankenstand, Homeoffice-Unterstützung etc.
-* Wann würde ich anfangen — Geh nicht davon aus, dass alle Bewerber:innen immer sofort verfügbar sind. Menschen haben Kündigungsfristen. Schreib rein, was das früheste und spätest mögliche Antrittsdatum für die Stelle wäre.
-* Was würde ich verdienen? — Gehalt. Dazu gleich noch mehr.
-* Wie bewerbe ich mich? — Details und Fristen zum Bewerbungsvorgang.
-* Wie geht's danach weiter? — Wie läuft das Auswahlverfahren? Gibt es danach Gespräche? Wenn ja, mit wem? In welchem Durchlaufzeitraum und mit wieviel zeitlichem Aufwand?
-
-
-## Gehalt
-
-... ist eine Zahl.
+<span class="fragment fade-in-then-semi-out">What is this about?</span>
+<span class="fragment fade-in-then-semi-out">What will I be working on?</span>
+<span class="fragment fade-in-then-semi-out">What should I know?</span>
+<span class="fragment fade-in-then-semi-out">What can I learn?</span>
+<span class="fragment fade-in-then-semi-out">What communities am I involved in?</span>
+<span class="fragment fade-in-then-semi-out">Who is my direct supervisor?</span>
+<span class="fragment fade-in-then-semi-out">How is work in your organisation?</span>
+<span class="fragment fade-in-then-semi-out">What does my team look like?</span>
+<span class="fragment fade-in-then-semi-out">What does my work week look like?</span>
+<span class="fragment fade-in-then-semi-out">Where can I work from?</span>
+<span class="fragment fade-in-then-semi-out">Can I work from home?</span>
+<span class="fragment fade-in-then-semi-out">What time zone would I work in?</span>
+<span class="fragment fade-in-then-semi-out">Is travel part of the job?</span>
+<span class="fragment fade-in-then-semi-out">What contract terms apply?</span>
+<span class="fragment fade-in-then-semi-out">When would I start?</span>
+<span class="fragment fade-in-then-semi-out">What would I earn?</span>
+<span class="fragment fade-in-then-semi-out">How do I apply?</span>
+<span class="fragment fade-in-then-semi-out">What happens afterwards?</span>
 
 <!-- Note -->
-... und nicht irgendein Wischi-Waschi wie "Bezahlung nach Qualifikation", oder "gemäß Kollektivvertrag Einstufung schlagmichtot", was einer Person außerhalb Österreichs so gar nichts sagen wird.
+* What is this about? - 1-sentence description of the job
+* What will I be working on? - More details about the systems/processes/responsibilities associated with the job.
+* What should I know - knowledge requirements: what knowledge/experience is *essential*.
+* What can I learn? - Opportunities for acquiring new knowledge or skills.
+* What communities am I involved in? - People and communities *outside* the organisation that the person could contribute to.
+* Who is my direct supervisor? - Information about you. (Yes, you write this yourself.)
+* How is work in your organisation? - Information about the organisational culture and processes. Is it an office-based company? Hybrid? Remote? Are there any special security requirements? What working language(s) does the company use?
+* What does my team look like? - Team composition and culture. How big is the team? Is there gender parity? Where do the team members live? How do they communicate?
+* What does my working week look like? - Information about the daily/weekly work organisation. How many meetings are there per week? Are there daily standups (shudder)?
+* Where can I work from? - Are there things to consider regarding the place of residence or stay (e.g. only within the EU, not in the USA, etc.)?
+* Can I work from home - information about working from home. If 100% remote is possible, this should also include how many times a year this is possible. 
+* What time zone do I work in - Most teams have a working day aligned to a specific time zone and employees adapt to this. But there may also be shift work, and then people can also work anti-cyclically (e.g. ‘night owl’ in Europe works the US day shift).
+* Is travel part of the job? - this applies to travelling to customers, but also to other company locations (e.g. quarterly developer sprints)
+* What contract terms apply? - If there are standard contracts, you can describe them here. Overtime regulations, holidays, sick leave, home office support, etc.
+* When would I start - Don't assume that all applicants are always immediately available. People have notice periods. Write in what would be the earliest and latest possible start date for the position.
+* What would I earn? - Salary. More on this in a moment.
+* How do I apply? - Details and deadlines for the application process.
+* What happens afterwards? - How does the selection process work? Are there interviews afterwards? If so, with whom? How long does the process take and how much time does it take?
 
-Ihr habt für die Stelle doch ohnehin ein Budget.
-Rechnet von dem Betrag von mir aus noch einen Verhandlungsspielraum runter, und schreibt die Zahl rein.
 
-Ihr erspart euch *und euren Bewerber:innen* potenziell eine ganze Menge Kopfschmerzen.
+## Salary
 
-Es gibt nichts dümmeres, als jemanden durch 3 Interviews zu tragen, zum Schluss zu kommen, dass er/sie für die Stelle perfekt wäre, nur um ihm/ihr dann kein Gehalt anbieten zu können, das auch nur irgendwie zur Lebenssituation dieser Person passt.
+... is a number.
 
-Das ist für diese Person, *und für euch,* nichts als vergeudete Zeit und reiner Frust.
+<!-- Note -->
+... and not some wishy-washy phrase like ‘pay according to qualifications’, or ‘according to the collective bargaining agreement, classification whatever, which won't mean anything to a person outside your country.
 
-Schneidet euch nicht ins eigene Fleisch, schreibt das einfach rein.
+You have a budget for the position anyway.
+Add a margin for negotiation from the amount and write the figure in.
 
-Und: Gehälter kann man, je nachdem wo eine Person wohnt, kaufkraftparitätisch anpassen.
-Aber das muss man eben vorher transparent darstellen.
+You'll potentially save yourself *and your applicants* a whole lot of headaches.
 
-Zum Beispiel: "bei Vollzeitanstellung in Österreich gilt für diese Stelle ein Monatsgehalt von € 5.900 brutto. Bei Wohnsitz in einem anderen EU-Land wird das Gehalt gemäß Kaufkraftparitätsrechner der Weltbank angepasst."
+There's nothing more stupid than putting someone through 3 interviews, coming to the conclusion that he/she would be perfect for the job, only to then not be able to offer them a salary that even somehow fits their life situation.
 
-Einfach und jederzeit nachvollziehbar. Siehe auch: [PPP Salary Converter](https://www.chrislross.com/PPPConverter/)
+This is nothing but wasted time and pure frustration for that person *and for you.
+
+Don't hurt yourself, just write it in.
+
+And: Salaries can be adjusted in line with purchasing power, depending on where a person lives.
+But you have to be transparent about this beforehand.
+
+For example: ‘For full-time employment in [country], a monthly salary of € 5,900 gross applies for this position. If you live in another EU country, the salary will be adjusted according to the World Bank's purchasing power parity calculator.’
+
+Simple and easy to understand at any time. See also: [PPP Salary Converter](https://www.chrislross.com/PPPConverter/)
 
 
 ## Remote
 
-... heißt 100% remote.
+... means 100% remote.
 
 <!-- Note -->
-Wenn ihr eine Stelle als "Remote-Arbeit möglich" ausschreibt, dann heißt das für Menschen in diesem Jahrhundert: "ich habe die Möglichkeit, zu 100% von zu Hause zu arbeiten" (bestenfalls mit Ausnahme von Vor-Ort-Treffen 1x im Quartal und 1 All-Hands pro Jahr).
+If you advertise a job as ‘remote work possible’, then for people in this century that means: ‘I have the opportunity to work 100% from home’ (at best with the exception of on-site meetings once a quarter and 1 all-hands per year).
 
-"1 Tag pro Woche im Büro", "3 Tage im Monat im Büro" — das ist nicht 100% remote.
-Und Menschen, denen ihr versucht, so etwas als Remote-Arbeit zu verkaufen, werden ich euch dafür als ahnungslos einordnen und den Bewerbungsvorgang verärgert abbrechen.
+‘1 day a week in the office’, “3 days a month in the office” - that's not 100% remote.
+And people to whom you try to sell something like this as remote work will categorise you as clueless and abandon the application process in annoyance.
 
-Es kann natürlich auch sein, dass ihr eine komplett verteilte Organisation seid, dann heißt es aber "Remote-Arbeit" ohne "möglich".
+Of course, it's also possible that you are a completely distributed organisation, but then it will say ‘remote work’ without ‘possible’.
 
-Ich würde euch dringend empfehlen, zumindest eine 100% remote-Option zu haben.
+I would strongly recommend that you have at least a 100% remote option.
 
-Warum? Weil ihr sonst einen sehr talentierten Pool an möglichen Bewerber:innen aussperrt, nämlich alle die, die irgendwelche familiären Verpflichtungen haben.
-(Man kann und soll drüber diskutieren ob es sein muss, dass Familien- und Sorgearbeit bei uns oft einseitig und ungerecht verteilt ist.
-Aber ihr macht die Situation *nicht besser,* wenn ihr Menschen mit solchen Verpflichtungen keine brauchbare Arbeits- und Weiterentwicklungsmöglichkeiten bietet!)
+Why? Because otherwise you are excluding a very talented pool of potential applicants, namely all those who have any family commitments.
+(One can and should discuss whether it is necessary that family and care work is often one-sided and unfairly distributed in our country.
+But you *don't* make the situation any better if you don't offer people with such obligations any useful work and development opportunities).
 
-Wenn ihr das mutwillig macht, dann braucht ihr euch nicht zu wundern, wenn ihr lauter Männer, ohne Kinder (oder ohne Interesse an ihren Kindern) da sitzen habt.
-S.S.K.M.
+If you do this wilfully, then you needn't be surprised if you have a lot of men sitting there without children (or without interest in their children).
 
-
-## Fristen
-
-<!-- Note -->
-"Bewerbungen für diese Stelle nehmen wir von 2024-10-01 00:00 bis 2024-10-15 23:59 UTC an.
-
-Der Zeitpunkt des Einlangens der Bewerbung innerhalb dieser Frist ist für die Reihung unerheblich."
+And it'll be Your Own Damn Fault.
 
 
-## Nächste Schritte
+## Deadlines
 
 <!-- Note -->
-"Nach Ablauf der Bewerbungsfrist laden wir die bestgereihten Bewerber:innen zu persönlichen Gesprächen ein.
-Insgesamt sind innerhalb von 10 Kalendertagen 3 Gesprächsrunden vorgesehen, die per Videokonferenz erfolgen.
-Für jede Gesprächsrunde rechnen Sie bitte mit einem Zeitbedarf von 45-60 Minuten."
+"We will accept applications for this position from 2025-03-01 00:00 to 2025-03-15 23:59 UTC.
 
-Was macht das?
+Within this period, the order in which applications are received is irrelevant."
 
-Ihr definiert ganz klar die Erwartungshaltung.
 
-Jede/r weiß genau, wann die Bewerbung eingehen muss, und dass vorher (außer einer Autoreply) keine weiteren Rückmeldungen kommen werden.
 
-Und ihr könnt auch gleich alle rausfiltern (oder nachreihen), die die Bewerbung *vor Beginn* der Bewerbungsfrist schicken, weil sie offensichtlich nicht lesen können oder wollen.
+## Next steps
+
+<!-- Note -->
+"After the application deadline, we will invite the top-ranked applicants to personal interviews.
+A total of 3 rounds of interviews are planned within 10 calendar days, which will take place via video conference.
+Please allow 45-60 minutes for each round of interviews."
+
+What does that do?
+
+You clearly define the expectations.
+
+Everyone knows exactly when the application must be received and that no further feedback (apart from an autoreply) will be received before then.
+
+And you can also filter out (or add to the queue) all those who send the application *before* the application deadline because they obviously can't or don't want to read.

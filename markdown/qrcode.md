@@ -2,20 +2,20 @@
 # QR code <!-- .element class="hidden" -->
 
 <!-- Note -->
-Ein paar Worte vorab zum Thema Accessibility:
+A few words in advance about accessibility:
 
-Wenn ihr diesen QR-code auf eurem Fon oder Tablet öffnet, dann könnt ihr dem Vortrag auf eurem eigenen Endgerät folgen.
+If you open this QR code on your phone or tablet, you can follow the talk on your own device.
 
-Die Slides werden auf eurem Gerät hier mit meinem synchron laufen.
+The slides on your device will run in sync with mine here.
 
-Macht das bitte insbesondere dann, wenn ihr nicht gut seht oder weit hinten sitzt, dann könnt ihr vermutlich einige Foliendetails besser erkennen.
+Please do this especially if you're visually impaired or are sitting far back.
 
-Wenn ihr lichtsensibel oder migräneanfällig seid und daher nicht auf die helle Wand starren könnt, dann wählt bitte den kleinen blauen Link links unten, da könnt ihr euch das Dark Theme auswählen.
+If you are sensitive to light or prone to migraines and therefore cannot stare at the bright screen for a lengthy time, please select the small blue link at the bottom left, where you can choose the dark theme.
 
 
 # Link <!-- .element class="hidden" -->
 
-<https://xahteiwi.eu/linuxdayat2024>
+<https://xahteiwi.eu/cfgmgmtcamp2025>
 
 <!-- Note -->
-Und falls ihr eine Hörbeeinträchtigung haben solltet, dann macht den Link bitte auf eurem Laptop auf und klickt auf "s", da kriegt ihr mich dann mit Transkript, also quasi mit Untertiteln.
+And if you have a hearing impairment, please open the link on your laptop and click on ‘s’, then you will get me with a transcript.
