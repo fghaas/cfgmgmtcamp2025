@@ -1,38 +1,28 @@
-# Es Es Ka Em
-Warum gute Leute nicht bei euch arbeiten wollen
+# It's Your Own Damn Fault!
+Why great people don't want to work with you
 
 * * *
 
 Florian Haas | [@xahteiwi@mastodon.social](https://mastodon.social/@xahteiwi)
 
-LinuxDay AT 2024 | 2024-09-28
+Config Management Camp 2025 | 2025-02-04
 
 <!-- Note -->
-"Fachkräftemangel!" "Wir finden keine guten Leute!" "Wir würden ja total gerne mehr Frauen einstellen, es bewerben sich nur keine!" — wenn in deinem Unternehmen solche Sätze rumfliegen, dann macht es gewaltig was falsch.
+‘Skilled labour shortage!’ ‘We can't find any good people!’ ‘We'd love to hire more women, but none are applying!’ - If these kinds of sentences are flying around in your company, then it's doing something very wrong.
 
-Und es machen ganz viele Unternehmen gewaltig was falsch.
-Nicht erst seit Corona und Lockdowns — da haben manche Unternehmen sogar durchaus einiges richtig gemacht; sie haben es nur prompt wieder vergessen.
+And a lot of companies are doing something very wrong.
+Not just since Covid and lockdowns - some companies have actually done a lot of things right; they just promptly forgot about it.
 
-Und heute stehen sie oft da und suchen händeringend
+And today they often find themselves desperately looking for
 
-* überhaupt nach Leuten,
-* nach guten Leuten,
-* oder mindestens nach neuen Leuten.
+* for people at all,
+* for good people,
+* or at least for new people.
 
-Und das ist eigentlich seltsam.
+And that is actually strange.
 
-Denn seit mindestens 30 Jahren macht die Open Source Community — und Unternehmen, die sich an ihr orientieren — vor, wie man sich aufstellt um wirklich gute Leute anzuziehen.
+Because for at least 30 years, the open source community - and the companies that align themselves with it - have shown how to set themselves up to attract really good people.
 
-Und auf einige von diesen Dingen — nämlich: sowohl was die meisten Unternehmen falsch machen, als auch was die Open Source Community im Allgemeinen richtig macht — möchte ich hinweisen.
-Wie sich viele Organisationen mit schöner Regelmäßigkeit und lasergleicher Präzision ins Knie schießen.
-Und wie man mit ein paar ganz einfachen Maßnahmen zu wirklich guten Mitarbeiter:innen kommt.
-
-
-## S.S.K.M.
-
-"Selbst schuld, kein Mitleid." <!-- .element class="fragment" -->
-
-<!-- Note -->
-Für alle, denen der Ausdruck so nicht geläufig ist und die sich fragen, was der Titel bedeuten soll:
-
-"S.S.K.M" ist eine in Österreich sehr geläufige Abkürzung, die "selbst schuld, kein Mitleid" bedeutet.
+And I would like to point out some of these things - namely: both what most companies are doing wrong and what the open source community in general is doing right.
+How many organisations shoot themselves in the foot with beautiful regularity and laser-like precision.
+And how you can get really good employees with a few very simple measures.

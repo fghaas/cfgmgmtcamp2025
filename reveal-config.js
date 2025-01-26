@@ -17,17 +17,17 @@ Reveal.initialize({
     transition: 'fade',
 
 
-    totalTime: 45 * 60,
+    totalTime: 23 * 60,
 
 
     menu: {
         themes: [
 	    {
-		name: 'Dunkel',
+		name: 'Dark',
 		theme: 'reveal.js/dist/theme/black.css'
 	    },
 	    {
-		name: 'Hell',
+		name: 'Light',
 		theme: 'reveal.js/dist/theme/white.css'
 	    }
 	],

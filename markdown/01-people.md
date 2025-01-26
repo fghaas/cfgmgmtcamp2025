@@ -1,20 +1,20 @@
-# Herausforderungen bei der Personalgewinnung <!-- .element class="hidden" -->
+# Challenges in Hiring <!-- .element class="hidden" -->
 
-Wir finden keine Leute! <!-- .element class="fragment fade-in-then-semi-out" -->
+We can't find people! <!-- .element class="fragment fade-in-then-semi-out" -->
 
-Wir finden keine guten Leute! <!-- .element class="fragment fade-in-then-semi-out" -->
+We can't find good people! <!-- .element class="fragment fade-in-then-semi-out" -->
 
-Wir finden immer die gleichen Leute! <!-- .element class="fragment fade-in-then-semi-out" -->
+We keep finding the same kind of people! <!-- .element class="fragment fade-in-then-semi-out" -->
 
 <!-- Note -->
-Im Wesentlichen haben die meisten Unternehmen eins oder mehrere der folgenden drei Probleme:
+Essentially, most companies have one or more of the following three problems:
 
-1. Sie bekommen gar keine Bewerbungen.
-   Das ist normalerweise eine Frage der Sichtbarkeit, aber auch der Qualität von Stellenanzeigen.
+1. they don't get any applications at all.
+   This is usually a question of visibility, but also of the quality of job adverts.
 
-2. Sie bekommen zwar eine Menge Bewerbungen, aber es ist nie jemand dabei, der richtig passt.
-   Das ist *oft* ein Problem in der Qualität der Stellenanzeigen, es kann aber auch durchaus sein dass sich das Unternehmen im Bewerbungsprozess für gute Leute unattraktiv macht.
+2. they get a lot of applications, but there is never anyone who is the right fit.
+   This is *often* a problem with the quality of the job adverts, but it can also be that the company makes itself unattractive to good people during the application process.
 
-3. Sie haben zwar kein Problem Bewerber zu finden, aber sie sehen alle gleich aus (Uni-Abschluss, weiß, männlich, zwischen 30 und 50).
-   Und (das ist ihnen anzurechnen), sie raffen dass das eigentlich nicht sein muss.
-   Hier handelt es sich meistens um Probleme in der Organisation selbst.
+3. they have no problem finding applicants, but they all look the same (university degree, white, male, between 30 and 50).
+   And (to their credit) they realise that this doesn't really have to be the case.
+   These are mostly problems in the organisation itself.

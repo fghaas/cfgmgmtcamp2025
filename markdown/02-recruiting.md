@@ -1,60 +1,57 @@
 # Recruiting (Definition) <!-- .element class="hidden" -->
 
 <span class="fragment fade-in">Recruiting</span>
-<span class="fragment fade-in-then-semi-out">ist die Anwerbung von Mitarbeiter:innen durch eine Person,</span>
-<span class="fragment fade-in-then-semi-out">die weder direkt noch indirekt Führungskraft der Angeworbenen ist.</span>
+<span class="fragment fade-in-then-semi-out">is attracting new employees,</span>
+<span class="fragment fade-in-then-semi-out">done by someone who the new employee neither directly nor indirectly will report to.</span>
 
-<span class="fragment fade-in-then-semi-out">Es kann unternehmensintern geschehen</span>
-<span class="fragment fade-in-then-semi-out">oder an eine Agentur ausgelagert sein.</span>
+<span class="fragment fade-in-then-semi-out">An organisation may have its own recruiters</span>
+<span class="fragment fade-in-then-semi-out">or outsource recruiting to an agency.</span>
 
 <!-- Note -->
-*Recruiting* (deutsch etwa: Anwerbung) ist im englischen Sprachgebrauch vom *Hiring* abgegrenzt:
+*Recruiting* is distinguished from *hiring* in the English language:
 
-Recruiting bedeutet in der Regel die Anwerbung neuer Mitarbeiter:innen durch Menschen, die in keinem Vorgesetztenverhältnis zu den Angeworbenen stehen.
-Das kann durch die Personalabteilung (neudeutsch: HR) geschehen, oder auch überhaupt außerhalb des Unternehmens, durch Auslagerung an eine Agentur.
+Recruiting usually means bringing in new employees by people who these new employees will not report to.
+This can be done by the HR department, or even outside the company by outsourcing it to an agency.
 
-Für "Hiring" gibt es keine wirkliche deutsche Entsprechung ("Einstellung" würde vielleicht annähernd passen); dieser Begriff bezieht sich auf die traditionellere Form der Mitarbeitergewinnung, wo Führungskräfte ihre eigenen Mitarbeiter:innen finden und auch anstellen.
+Hiring, by contrast, refers to the more traditional form of employee recruitment, where managers find and hire their own reports.
 
-Frage in die Runde:
+Question:
 
-1. Wer macht nach dieser Definition haupt- oder auch nebensächlich *Recruiting?*
-2. Wer ist selbst Führungskraft?
-3. Und wer von denen, die zuletzt die Hand gehoben haben, stützen sich bei der Personalsuche hauptsächlich auf die ab, die zuerst die Hand oben hatten?
+1. according to this definition, who does *recruiting?
+2. who is a manager themselves?
+3. and who of those who raised their hand last rely mainly on those who raised their hand first when recruiting?
 
 
 # Recruiting <!-- .element class="hidden" -->
 
 Recruiting 
-<span class="fragment fade-in">existiert nur da, wo Führungskräfte ihre Aufgabe nicht erfüllen.</span>
+<span class="fragment fade-in">exists where management doesn't do its job.</span>
 
 <!-- Note -->
-Ich muss denen, die jetzt bei der ersten Runde die Hand gehoben haben, jetzt mal was Unangenehmes sagen: ihr solltet einen anderen Job haben.
+I have to say something unpleasant to those who raised their hands in the first round: you should find another job.
 
-Nicht weil ihr ihn schlecht macht, ganz im Gegenteil: da steht mir erstens kein Urteil zu, und zweitens hab ich keinen Grund zu einer anderen Annahme als dass ihr ihn gut macht.
+Not because you do it badly, quite the opposite: firstly, I'm not entitled to judge, and secondly, I have no reason to assume anything other than that you do it well.
 
-Sondern weil es ihn hauptsächlich deswegen gibt, weil die bei der letzten Hand-oben-Runde **ihren** nicht machen — oder nicht machen dürfen.
+It's because the main reason it exists is because they don't - or aren't allowed to - do theirs in the last hand-up round.
 
 
-# Aufgaben von Führungskräften <!-- .element class="hidden" -->
+# Managers' jobs <!-- .element class="hidden" -->
 
-Aufgabe von Führungskräften ist es,
-<span class="fragment fade-in-then-semi-out">gute Leute zu finden,</span>
-<span class="fragment fade-in-then-semi-out">sie zu einem Team zusammenzuführen,</span>
-<span class="fragment fade-in-then-semi-out">klare Ziele zu definieren</span>
-<span class="fragment fade-in-then-semi-out">und dann jegliche Hindernisse zu beseitigen, die zwischen dem Team und der Erreichung der Ziele stehen.</span>
+It's a manager's job to
+<span class="fragment fade-in-then-semi-out">find good people,</span>
+<span class="fragment fade-in-then-semi-out">make them part of a team,</span>
+<span class="fragment fade-in-then-semi-out">define clear objectives</span>
+<span class="fragment fade-in-then-semi-out">and remove any obstacles that may exist between the team and those objectives.</span>
 
 <!-- Note -->
-Und wenn man eine dieser Aufgaben nicht mehr wahrnimmt, dann ist man keine Führungskraft mehr.
+And if you no longer fulfil one of these tasks, then you are no longer a manager.
 
-... und da gibt es auch keine Ausrede "aber die Arbeitsteilung!"
+... and there is no excuse ‘but the division of labour!’
 
-Wer eine Kernaufgabe jemand anders übergibt (und zwar nicht in Form von Delegation, sondern Übergabe der Verantwortung), der nimmt sie einfach nicht mehr wahr.
+Anyone who hands over a core task to someone else (not in the form of delegation, but by handing over responsibility) is simply no longer performing it.
 
-Wenn ein Bäcker kein Brot mehr bäckt, sondern nur noch Brot zu- und dann in seinem Geschäft verkauft, dann ist er Brothändler, kein Bäcker.
+If a baker no longer bakes bread, but only prepares bread and then sells it in his shop, then he is a bread merchant, not a baker.
 
-Also: **ihr** Führungskräfte müsst euch überlegen, was ihr für Leute in eurem Team haben wollt.
+So: **you** managers need to think about what kind of people you want in your team.
 
-Nicht die Personalabteilung, nicht eine Recruiting-Agentur. Ihr.
-Denn: wollt ihr das nicht machen, S.S.K.M.
-
-Und am besten setzt man sich dazu hin und schreibt das auf.
+Not the HR department, not a recruiting agency. You.

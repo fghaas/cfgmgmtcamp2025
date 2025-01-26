@@ -1,35 +1,34 @@
 # Satisficing <!-- .element class="hidden" -->
 
-Die richtigen Leute einzustellen, ist keine Optimierungs- sondern eine Satisficing-Aufgabe.
+Hiring the right people is not a optimisation, it's satisficing.
 
 <!-- Note -->
-In der Mitarbeiter:innensuche und -gewinnung machen ganz viele Unternehmen folgenden Fehler: sie versuchen (manchmal tatsächlich, manchmal vorgeblich), eine Stelle mit der bestmöglichen Person zu besetzen.
-Sie betrachten das Besetzen einer offenen Stelle also also eine Optimierungsaufgabe.
+When looking for and recruiting employees, many companies make the following mistake: they try (sometimes really, sometimes pretend) to fill a position with the best possible person.
+In other words, they see filling a vacancy as an optimisation task.
 
-Das ist ganz wenigen Fällen tatsächlich notwendig, manchmal sogar verpflichtend: im öffentlichen Dienst in Deutschland gilt zum Beispiel das [Prinzip der Bestenauslese nach Art. 33(2) GG](https://de.wikipedia.org/wiki/Artikel_33_des_Grundgesetzes_f%C3%BCr_die_Bundesrepublik_Deutschland#Prinzip_der_Bestenauslese,_Art._33_Absatz_2_GG).
-Hier muss tatsächlich, von Gesetzes wegen, für eine offene Stelle die bestgeeignete Besetzungsoption gewählt werden.
+In very few cases this is actually necessary, sometimes even mandatory: in the public sector in Germany, for example, the [principle of best selection according to Art. 33(2) GG](https://de.wikipedia.org/wiki/Artikel_33_des_Grundgesetzes_f%C3%BCr_die_Bundesrepublik_Deutschland#Prinzip_der_Bestenauslese,_Art._33_Absatz_2_GG) applies.
+Here, the most suitable option for filling a vacancy must actually be chosen by law.
 
-In den allermeisten sonstigen Fällen ist Stellenbesetzung aber viel näher an einer [Satisficing](https://de.wikipedia.org/wiki/Satisficing)-Aufgabe: in diesem Fall wählt man für eine Entscheidung die *erste* Option, welche die Entscheidungskriterien erfüllt. 
-Also, im Extremfall, den ersten Bewerber oder die Bewerberin, der/die die definierten Anforderungen erfüllt.
+In the vast majority of other cases, however, filling a vacancy is much closer to a [satisficing](https://de.wikipedia.org/wiki/Satisficing) task: in this case, the *first* option that fulfils the decision criteria is chosen for a decision. 
+In other words, in extreme cases, the first applicant who fulfils the defined requirements.
 
-Das setzt natürlich voraus, dass die Anforderungen genau definiert sind, aber das haben wir ohnehin schon zu Beginn als Eröffnungsbedingung definiert (ihr erinnert euch an das Detail, das ich bei Stellenbeschreibungen einfordere).
+Of course, this assumes that the requirements are precisely defined, but we have already defined this as an opening condition at the beginning anyway (remember the detail I require in job descriptions).
 
-Das verkürzt den Prozess nicht nur ungemein, sondern er macht ihn auch nicht unnötig zur Wissenschaft.
-Personalgewinnung ist und bleibt dann Handwerk, das man als Führungskraft erlernen kann und muss.
+This not only shortens the process immensely, it also doesn't turn it into an unnecessary science.
+Hiring is and remains a craft that you can and must learn as a manager.
 
 
-# Ausbildung <!-- .element class="hidden" -->
+# Training <!-- .element class="hidden" -->
 
-Auch Aus- und Weiterbildung ist Führungsaufgabe.
+Training and education are management responsibilities too.
 
 <!-- Note -->
-Wer immer nur nach Senior-Leuten sucht, der muss sich nicht wundern, wenn das Unternehmen überwiegend alt, weiß und männlich aussieht.
+If you only ever look for senior people, don't be surprised if the company looks predominantly old, white and male.
 
-Ihr könnt nicht nur Leute einstellen, die schon alles können, und wenn ihr das versucht, dann wundert euch bitte nicht über deren Gehaltsvorstellungen.
+You can't just hire people who can already do everything, and if you try to do that, then please don't be surprised at their salary expectations.
 
-Ihr habt eine Verantwortung und meines Erachtens auch eine Verpflichtung, Menschen auch von einer Erfahrungsstufe zur nächsten oder übernächsten zu begleiten.
+You have a responsibility and, in my opinion, also an obligation to accompany people from one level of experience to the next or the next but one.
 
-Und auch damit erzielst du bessere Leistungen, bessere Teamqualität, und mehr Vielfalt als mit einer Headhunting-Strategie.
-
+And you will also achieve better performance, better team quality and more diversity than with a headhunting strategy.
 
 * * *
