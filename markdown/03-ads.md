@@ -24,7 +24,7 @@ So put in the work, it will pay off.
 You only have to do a lot of it once from scratch and can then use it again for every other job advert.
 
 
-<!-- .slide: data-timing="300" -->
+<!-- .slide: data-timing="150" -->
 ## Job ad checklist <!-- .element class="hidden" -->
 
 <span class="fragment fade-in-then-semi-out">What is this about?</span>

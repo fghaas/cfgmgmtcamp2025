@@ -3,7 +3,7 @@
 <!-- Note -->
 If you've ever wondered what could stop people from working for you, here's something interesting, namely typical warning signs that often show up for applicants during the application process.
 
-And if you've never asked yourself this before, then it's about time.
+I've picked just 3, pretty much at random.
 
 
 ## AI Personality Snake Oil
@@ -51,19 +51,6 @@ Finance people seem to forget one thing: what people do in IT is just always use
 And that always applies to broken KPI systems too.
 
 Please acquaint yourself with things like [Goodhart's law, Campbell's law, the McNamara fallacy](https://xahteiwi.eu/blog/2021/11/14/meaningless-metrics-treacherous-targets/).
-
-
-## Daily standups
-
-<!-- Note -->
-You should know that people who are used to working from home, asynchronous coordination and writing are also expecting managers to know these skills.
-
-If a company cultivates something like a daily stand-up, where everyone just says what they're working on and where there's a problem, then there are only two possible reasons for such people: 
-
-* functional illiteracy among colleagues, especially the inability to write, and/or
-* functional illiteracy among managers, especially the inability to read.
-
-If you have that, then you will attract people who want that, and they won't be the ones who are good at contemporary, asynchronous communication: and that'll be Your Own Damn Fault.
 
 
 ## Remote Office

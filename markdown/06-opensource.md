@@ -1,6 +1,6 @@
 # Open source <!-- .element class="hidden" -->
 
-What organinsations can learn from the open source software community
+What organisations can learn from the open source software community
 
 <!-- Note -->
 How a company can position itself **without** scaring people away is something you can learn from the open source software community (and from companies that orientate themselves on it).
