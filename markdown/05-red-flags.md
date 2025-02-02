@@ -33,8 +33,8 @@ This then leads to numbers people suddenly having to think about other people - 
 
 This is particularly noticeable in the fact that scores and key figures are attached to everything.
 
-You can also tell by the new German term ‘human resources’. 
-(If you call personnel ‘resources’, you have to put up with being called ‘overheads’ yourself).
+You can also tell by the new German term "human resources". 
+(If you call personnel "resources", you have to put up with being called "overheads" yourself).
 
 If an intelligent person realises this during the application process, there are only 2 options:
 
@@ -56,18 +56,18 @@ Please acquaint yourself with things like [Goodhart's law, Campbell's law, the M
 ## Remote Office
 
 <!-- Note -->
-Another phenomenon that will drive good people far away from you is what I call the ‘remote office’.
+Another phenomenon that will drive good people far away from you is what I call the "remote office".
 
 This is a working environment in which everyone is 100% remote, but nobody has thought about the fact that this also means 100% distributed and asynchronous.
 And where instead you try to run an office-based company, but without an office, but with all the stupidities that are unfortunately somehow accepted in offices.
 
 The signs and warning signs of a remote office are
 
-* everyone is constantly in unprepared video meetings whose motivation consists solely of ‘do you have a moment’
+* everyone is constantly in unprepared video meetings whose motivation consists solely of "do you have a moment"
 * managers always need information *immediately,* and ping colleagues wildly in the chat
 * When something important happens, some boss calls *everyone* into a hasty video meeting instead of sitting down and writing an email
 * it is tolerated when people come to meetings completely unprepared, especially those who are higher up the food chain
-* issue trackers (such as Jira, Taiga, Trello and the like) tolerate comments such as ‘I haven't read the whole thread but here's my opinion’
+* issue trackers (such as Jira, Taiga, Trello and the like) tolerate comments such as "I haven't read the whole thread but here's my opinion"
 * Managers have dystopian surveillance fantasies
 
 Remote offices have unfortunately become something of a norm during Covid lockdowns.

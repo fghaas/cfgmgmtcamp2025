@@ -46,7 +46,7 @@ It's a manager's job to
 <!-- Note -->
 And if you no longer fulfil one of these tasks, then you are no longer a manager.
 
-... and there is no excuse ‘but the division of labour!’
+... and there is no excuse "but the division of labour!"
 
 Anyone who hands over a core task to someone else (not in the form of delegation, but by handing over responsibility) is simply no longer performing it.
 

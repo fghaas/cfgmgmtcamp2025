@@ -8,7 +8,7 @@ Florian Haas | [@xahteiwi@mastodon.social](https://mastodon.social/@xahteiwi)
 Config Management Camp 2025 | 2025-02-04
 
 <!-- Note -->
-‘Skilled labour shortage!’ ‘We can't find any good people!’ ‘We'd love to hire more women, but none are applying!’ - If these kinds of sentences are flying around in your company, then it's doing something very wrong.
+"Skilled labour shortage!" "We can't find any good people!" "We'd love to hire more women, but none are applying!" - If these kinds of sentences are flying around in your company, then it's doing something very wrong.
 
 And a lot of companies are doing something very wrong.
 Not just since Covid and lockdowns - some companies have actually done a lot of things right; they just promptly forgot about it.
