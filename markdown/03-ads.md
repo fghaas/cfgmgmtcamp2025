@@ -124,7 +124,6 @@ And it'll be Your Own Damn Fault.
 Within this period, the order in which applications are received is irrelevant."
 
 
-
 ## Next steps
 
 <!-- Note -->
