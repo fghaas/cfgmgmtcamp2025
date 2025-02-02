@@ -1,13 +1,13 @@
-# Es Es Ka Em
-Warum gute Leute nicht bei euch arbeiten wollen
+# It's Your Own Damn Fault!
+Why great people don't want to work with you
 
-"Fachkräftemangel!" "Wir finden keine guten Leute!" "Wir würden ja total gerne mehr Frauen einstellen, es bewerben sich nur keine!" — wenn in deinem Unternehmen solche Sätze rumfliegen, dann macht es gewaltig was falsch.
+‘Skilled labour shortage!’ ‘We can't find any good people!’ ‘We'd love to hire more women, but none are applying!’ - If these kinds of sentences are flying around in your company, then it's doing something very wrong.
 
 * * *
 
-Presented by Florian Haas at LinuxDay AT 2024, 2024-09-28
+Presented by Florian Haas at Config Management Camp 2025.
 
-Rendered slides from this presentation are at <https://fghaas.github.io/linuxdayat2024>.
+Rendered slides from this presentation are at <https://fghaas.github.io/cfgmgmtcamp2025>.
 
 * * *
 
