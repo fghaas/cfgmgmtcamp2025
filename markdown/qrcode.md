@@ -18,4 +18,4 @@ If you are sensitive to light or prone to migraines and therefore cannot stare a
 <https://xahteiwi.eu/cfgmgmtcamp2025>
 
 <!-- Note -->
-And if you have a hearing impairment, please open the link on your laptop and click on ‘s’, then you will get me with a transcript.
+And if you have a hearing impairment, please open the link on your laptop and click on "s", then you will get me with a transcript.

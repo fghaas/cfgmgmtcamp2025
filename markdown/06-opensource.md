@@ -69,7 +69,7 @@ There may be mandatory synchronisation points, e.g. weekly meetings in a chat ch
 
 However, these are always planned in advance, limited in time, documented for posterity and always have predefined preparation and follow-up.
 
-Ad hoc synchronisation points along the lines of ‘everyone in my office, now’ are practically non-existent in open source projects.
+Ad hoc synchronisation points along the lines of "everyone in my office, now" are practically non-existent in open source projects.
 
 
 ## This works in companies too  <!-- .element class="hidden" -->

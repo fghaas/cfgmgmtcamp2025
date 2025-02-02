@@ -1,7 +1,7 @@
 # It's Your Own Damn Fault!
 Why great people don't want to work with you
 
-‘Skilled labour shortage!’ ‘We can't find any good people!’ ‘We'd love to hire more women, but none are applying!’ - If these kinds of sentences are flying around in your company, then it's doing something very wrong.
+"Skilled labour shortage!" "We can't find any good people!" "We'd love to hire more women, but none are applying!" - If these kinds of sentences are flying around in your company, then it's doing something very wrong.
 
 * * *
 

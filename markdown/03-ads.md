@@ -12,7 +12,7 @@ What belongs in a good job advert?
 I'll be confident bordering on arrogance for a moment: I write good job adverts.
 
 I know this not only from conversations with applicants who tell me this in interviews.
-I also regularly hear things like ‘I'm happy where I am right now, but if I were looking for a job, I'd apply straight away, and what's more, this is the best job description I've ever read.’
+I also regularly hear things like "I'm happy where I am right now, but if I were looking for a job, I'd apply straight away, and what's more, this is the best job description I've ever read."
 My job descriptions make the rounds when I send them out because people like to read them and like to pass them on.
 
 And my job descriptions are long.
@@ -58,7 +58,7 @@ You only have to do a lot of it once from scratch and can then use it again for 
 * What does my working week look like? - Information about the daily/weekly work organisation. How many meetings are there per week? Are there daily standups (shudder)?
 * Where can I work from? - Are there things to consider regarding the place of residence or stay (e.g. only within the EU, not in the USA, etc.)?
 * Can I work from home - information about working from home. If 100% remote is possible, this should also include how many times a year this is possible. 
-* What time zone do I work in - Most teams have a working day aligned to a specific time zone and employees adapt to this. But there may also be shift work, and then people can also work anti-cyclically (e.g. ‘night owl’ in Europe works the US day shift).
+* What time zone do I work in - Most teams have a working day aligned to a specific time zone and employees adapt to this. But there may also be shift work, and then people can also work anti-cyclically (e.g. "night owl" in Europe works the US day shift).
 * Is travel part of the job? - this applies to travelling to customers, but also to other company locations (e.g. quarterly developer sprints)
 * What contract terms apply? - If there are standard contracts, you can describe them here. Overtime regulations, holidays, sick leave, home office support, etc.
 * When would I start - Don't assume that all applicants are always immediately available. People have notice periods. Write in what would be the earliest and latest possible start date for the position.
@@ -72,7 +72,7 @@ You only have to do a lot of it once from scratch and can then use it again for 
 ... is a number.
 
 <!-- Note -->
-... and not some wishy-washy phrase like ‘pay according to qualifications’, or ‘according to the collective bargaining agreement, classification whatever, which won't mean anything to a person outside your country.
+... and not some wishy-washy phrase like "pay according to qualifications", or "according to the collective bargaining agreement, classification whatever, which won't mean anything to a person outside your country.
 
 You have a budget for the position anyway.
 Add a margin for negotiation from the amount and write the figure in.
@@ -88,7 +88,7 @@ Don't hurt yourself, just write it in.
 And: Salaries can be adjusted in line with purchasing power, depending on where a person lives.
 But you have to be transparent about this beforehand.
 
-For example: ‘For full-time employment in [country], a monthly salary of € 5,900 gross applies for this position. If you live in another EU country, the salary will be adjusted according to the World Bank's purchasing power parity calculator.’
+For example: "For full-time employment in [country], a monthly salary of € 5,900 gross applies for this position. If you live in another EU country, the salary will be adjusted according to the World Bank's purchasing power parity calculator."
 
 Simple and easy to understand at any time. See also: [PPP Salary Converter](https://www.chrislross.com/PPPConverter/)
 
@@ -98,12 +98,12 @@ Simple and easy to understand at any time. See also: [PPP Salary Converter](http
 ... means 100% remote.
 
 <!-- Note -->
-If you advertise a job as ‘remote work possible’, then for people in this century that means: ‘I have the opportunity to work 100% from home’ (at best with the exception of on-site meetings once a quarter and 1 all-hands per year).
+If you advertise a job as "remote work possible", then for people in this century that means: "I have the opportunity to work 100% from home" (at best with the exception of on-site meetings once a quarter and 1 all-hands per year).
 
-‘1 day a week in the office’, “3 days a month in the office” - that's not 100% remote.
+"1 day a week in the office", “3 days a month in the office” - that's not 100% remote.
 And people to whom you try to sell something like this as remote work will categorise you as clueless and abandon the application process in annoyance.
 
-Of course, it's also possible that you are a completely distributed organisation, but then it will say ‘remote work’ without ‘possible’.
+Of course, it's also possible that you are a completely distributed organisation, but then it will say "remote work" without "possible".
 
 I would strongly recommend that you have at least a 100% remote option.
 
